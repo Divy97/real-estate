@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,300&display=swap");
+
+.searchBox_input {
+  height: 3rem;
+  margin-top: 0.5rem;
+  border: 0.1rem solid #000;
+}
+
+.searchBox_heading {
+  font-weight: bolder;
+  font-family: "Kanit", sans-serif;
+}
+
+.search_button {
+  margin: 10px 10px;
+  padding: 10px 20px;
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #000;
+  border-radius: 0.5rem;
+}
+
+.search_button:hover {
+  background-color: #000;
+  color: #fff;
+}

@@ -1,0 +1,49 @@
+.card {
+  width: 20rem;
+  border-radius: 1rem;
+  margin: 1rem;
+  /* margin-top: 1rem; */
+}
+
+.image {
+  border-radius: 0.4rem;
+  height: 12rem;
+  width: 20rem;
+}
+
+.price {
+  font-weight: 800;
+  color: #8d3daf;
+  font-size: 1.3rem;
+}
+
+.month {
+  font-size: 0.8rem;
+  color: #c3c3c3;
+}
+
+.title {
+  font-weight: 1000;
+  font-size: 1.5rem;
+}
+
+.icon {
+  color: #8d3daf;
+}
+
+.badge {
+  height: 1.3rem;
+  width: 5rem;
+  background: #8d3daf;
+  margin-bottom: 0.2rem;
+  margin-left: -1.5rem;
+}
+
+.like_icon {
+  font-size: 2rem;
+}
+
+.like {
+  position: absolute;
+  right: 1rem;
+}
